@@ -1,5 +1,6 @@
 # FPGA Ultrasonic Distance Sensor with UART Output
 ![System Block Design](block_design.png)
+
 This project implements a real-time ultrasonic distance measurement system on the **Digilent Basys 3 (Artix-7 FPGA)** development board.
 
 ## Hardware Architecture
